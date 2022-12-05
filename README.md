@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Ljubomir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Swift, C, C++, C#, Java, HTML, Java Script, SQL
+- 🌱 I’m currently learning Swift, C, C++, Java, C# and SQL
 - 📫 How to reach me ... // MARK: To add something later
 
 <!---
