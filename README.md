@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Ljubomir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Swift, C, C++, Java, C# and SQL
-- 📫 How to reach me ... // MARK: To add something later
+- 🌱 I’m currently learning .asm, .cpp
+- 📫 How to reach me ...     ; To add something later
 
 <!---
 MiLjubomir/MiLjubomir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
