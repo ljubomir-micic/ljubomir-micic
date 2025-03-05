@@ -1,7 +1,7 @@
-- 👋 Hello, I’m Ljubomir
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning .asm, .cpp
-- 📫 How to reach me ...     ; To add something later
+- Hello, I’m Ljubomir
+enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python }
+- progLanguage learningAndImproving() { srand(time(NULL)); return (progLanguage) (rand() % 10); }
+- string reachMe() { throw; }
 
 <!---
 MiLjubomir/MiLjubomir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
