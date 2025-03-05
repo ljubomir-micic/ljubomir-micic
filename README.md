@@ -1,5 +1,5 @@
 - Hello, I’m Ljubomir
-enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python }
+- enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python }
 - progLanguage learningAndImproving() { srand(time(NULL)); return (progLanguage) (rand() % 10); }
 - string reachMe() { throw; }
 
