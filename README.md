@@ -11,6 +11,7 @@
     int main(int argc, const char* argv[]) {
         person* me = new person(0x7D4);
         me->full_name = "Ljubomir Micic";
+        me->contact_func = reachMe;
         srand(time(NULL));
         while (1) me->coding = learningAndImproving();
         delete me;
