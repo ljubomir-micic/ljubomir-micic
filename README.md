@@ -1,7 +1,21 @@
-- Hello, I’m Ljubomir
-- enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python }
-- progLanguage learningAndImproving() { srand(time(NULL)); return (progLanguage) (rand() % 10); }
-- string reachMe() { throw; }
+    #include "person.h"
+
+    enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python };
+ 
+    progLanguage learningAndImproving() {
+        return (progLanguage) (rand() % 10);
+    }
+  
+    std::string reachMe() { throw; }
+
+    int main(int argc, const char* argv[]) {
+        person* me = new person(0x7D4);
+        me->full_name = "Ljubomir Micic";
+        srand(time(NULL));
+        while (1) me->coding = learningAndImproving();
+        delete me;
+        return 0;
+    }
 
 <!---
 MiLjubomir/MiLjubomir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
