@@ -1,6 +1,6 @@
     #include "person.h"
 
-    enum progLanguage { assembly, c, cpp, csharp, swift, sql, swift, java, js, python };
+    enum progLanguage { assembly, c, cpp, csharp, swift, sql, java, js, python };
  
     progLanguage learningAndImproving() {
         return (progLanguage) (rand() % 10);
